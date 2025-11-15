@@ -1,2 +1,7 @@
 Treść przykład
+<<<<<<< HEAD
 Co jest?!
+=======
+What 
+
+>>>>>>> 1bdc41e5e5430a79473575517ba70db21c3fc487
